@@ -1,5 +1,7 @@
-# This project used
-   -> React
+## This project Focuses On
+  ✔ React
+    ✔ useReducer
+    ✔ useState
 ## Available Scripts
 
 In the project directory, you can run:
